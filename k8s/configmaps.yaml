@@ -8,7 +8,7 @@ data:
   # Database Names
   PRODUCTS_DB_NAME: products
   ORDERS_DB_NAME: orders
-  AZURE_STORAGE_CONTAINER_NAME: product-images
+  AZURE_STORAGE_CONTAINER_NAME: week8container
   AZURE_SAS_TOKEN_EXPIRY_HOURS: "24"
 
   PRODUCT_SERVICE_URL: http://product-service-w08e1:8000
